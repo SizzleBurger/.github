@@ -15,6 +15,7 @@ Psst, while here, why not join our [group](https://www.roblox.com/communities/10
 ### 👋 Meet the team
 - [SilverAuthority](https://github.com/SilverAuthority) (Owner & Project Lead)
 - [MarsSquirrel](https://github.com/MarsSquirrel) (Programmer)
+- [jukepilot](https://github.com/jukepilot) (Programmer)
 - [Jason20494](https://github.com/Jason20494) (Builder)
 
 Are you interested in a position at SizzleBurger? 👀 Sadly, we are not currently hiring for full-time positions.
