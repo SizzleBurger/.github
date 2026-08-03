@@ -1,5 +1,5 @@
 ![SizzleBurger Logo.](images/cover.png "This is a sample image.")
-Heya! Welcome to the official SizzleBurger organization! 🍔 We have been in operation since **January 3rd, 2014** and in that time have gained over **1M+** group members, **30M+** visits across our games, and **200K+** favorites! 🎉
+Heya! Welcome to the official SizzleBurger organization! 🍔 We have been in operation since **January 3rd, 2014** and in that time have gained over **1M+** group members, **30M+** visits across our games, and **200K+** favorites! 🎉 
 
 ### 🔗 Important links
 Lost? Here are some links!
